@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1398141932 source:c:\users\the_e_000\documents\github\learngl\learngl\main.cpp
+	<GL/glfw3.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<OBJHandler.h>
+
+1397934890 c:\program files (x86)\codeblocks\mingw\include\gl\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1301114764 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1398137763 source:c:\users\the_e_000\documents\github\learngl\learngl\src\objhandler.cpp
+	"OBJHandler.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1397943759 c:\users\the_e_000\documents\github\learngl\learngl\include\objhandler.h
+	<Mesh.h>
+	<string>
+
+1398136838 source:c:\users\the_e_000\documents\github\learngl\learngl\src\mesh.cpp
+	"Mesh.h"
+	<vector>
+	<stdio.h>
+
+1398137083 c:\users\the_e_000\documents\github\learngl\learngl\include\mesh.h
+	<vector>
+
